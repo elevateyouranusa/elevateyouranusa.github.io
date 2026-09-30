@@ -1,2 +1,3 @@
-# elevateyouranusa.github.io
-ELEVATE your ANUSA landing page.
+# ELEVATE your ANUSA
+
+Campaign site for the 2026 ANUSA Annual Elections.
